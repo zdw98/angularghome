@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/angularghome/static/css/main.705565a6.chunk.css",
+    "main.js": "/angularghome/static/js/main.4fee307a.chunk.js",
+    "main.js.map": "/angularghome/static/js/main.4fee307a.chunk.js.map",
+    "runtime-main.js": "/angularghome/static/js/runtime-main.109cc2e1.js",
+    "runtime-main.js.map": "/angularghome/static/js/runtime-main.109cc2e1.js.map",
+    "static/css/2.7ececfe9.chunk.css": "/angularghome/static/css/2.7ececfe9.chunk.css",
+    "static/js/2.68e7b1ee.chunk.js": "/angularghome/static/js/2.68e7b1ee.chunk.js",
+    "static/js/2.68e7b1ee.chunk.js.map": "/angularghome/static/js/2.68e7b1ee.chunk.js.map",
+    "index.html": "/angularghome/index.html",
+    "precache-manifest.51a132f48ad5d1b6efb8ba7e54231315.js": "/angularghome/precache-manifest.51a132f48ad5d1b6efb8ba7e54231315.js",
+    "service-worker.js": "/angularghome/service-worker.js",
+    "static/css/2.7ececfe9.chunk.css.map": "/angularghome/static/css/2.7ececfe9.chunk.css.map",
+    "static/css/main.705565a6.chunk.css.map": "/angularghome/static/css/main.705565a6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.109cc2e1.js",
+    "static/css/2.7ececfe9.chunk.css",
+    "static/js/2.68e7b1ee.chunk.js",
+    "static/css/main.705565a6.chunk.css",
+    "static/js/main.4fee307a.chunk.js"
+  ]
+}
